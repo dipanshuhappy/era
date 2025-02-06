@@ -1,3 +1,5 @@
+# What i think ERA is ?
+So, **ERA** is a **Decentralized, Verifiable, Compute Friendly Ecosystem for Ethical Data Preservation**. I see it as a protocol that enables anyone to become an archivist—not a pirate archivist, but a social digital archivist. Hence reducing the entry barrier to connect to social archivist ,and people becoming social archivist
 # 1. The Storage and Protection Element of ERA
 
 I imagine that as long as I can store bytes, I can participate in this protocol. Storing bytes isn’t the hard part; coordinating their storage in a censorship-resistant manner is the challenge. Filecoin helps by combining cryptographic proofs with blockchain-based incentives, but I think ERA should be independent of the Filecoin network rather than dependent on it.
